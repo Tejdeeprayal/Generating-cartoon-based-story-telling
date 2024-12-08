@@ -27,6 +27,9 @@ Creative industries (e.g., concept art, storyboarding).
 Marketing and advertising visuals.
 Personalized illustrations for books or presentations.
 Customization: Users can fine-tune prompts to specify details like colors, styles, or compositions.
+
+
+
 CODE:
 import openai
 import requests
